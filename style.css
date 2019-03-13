@@ -1,0 +1,14 @@
+.navbar{
+    position: fixed;
+    top:0;
+    width: 100%;
+    background: #282723;
+    height: 25px;
+    left: auto;
+}
+a {
+    color: white;
+    text-decoration:none ;
+    font-size: 20px;
+    word-spacing: 30px;
+}
